@@ -1,0 +1,7 @@
+C:\Users\Soporte\Desktop\UAM.OOP\UAM.OOP\bin\Debug\UAM.OOP.exe.config
+C:\Users\Soporte\Desktop\UAM.OOP\UAM.OOP\bin\Debug\UAM.OOP.exe
+C:\Users\Soporte\Desktop\UAM.OOP\UAM.OOP\bin\Debug\UAM.OOP.pdb
+C:\Users\Soporte\Desktop\UAM.OOP\UAM.OOP\obj\Debug\UAM.OOP.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\UAM.OOP\UAM.OOP\obj\Debug\UAM.OOP.exe
+C:\Users\Soporte\Desktop\UAM.OOP\UAM.OOP\obj\Debug\UAM.OOP.pdb
+C:\Users\Soporte\Desktop\UAM.OOP\UAM.OOP\obj\Debug\UAM.OOP.csprojAssemblyReference.cache
